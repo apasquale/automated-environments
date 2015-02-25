@@ -1,0 +1,13 @@
+{
+  "Gemfile": "32579022d86b875acc3b351eab00170f",
+  "License": "5335066555b14d832335aa4660d6c376",
+  "CONTRIBUTING.md": "eef7907ffe89dee60ca4758d5b1d286c",
+  "lib/puppet/provider/package/chocolatey.rb": "519fc52f45629c263319be1901504b62",
+  "spec/spec_helper.rb": "533a299e98b389da25a19a44c53ba6b9",
+  "tests/init.pp": "6ae8683b4a442031550aba6e8d3975e7",
+  "Rakefile": "188652eaa79361ab4472fcb97b33d5d7",
+  "spec/unit/chocolatey_spec.rb": "33688f8341930f16c8d8cd7c6bb31139",
+  "spec/unit/travis_spec.rb": "8838d87aa76de04ae40296d3f616bb58",
+  "README.md": "ab5e749a1c154bce8b6c3b3dec91a578",
+  "metadata.json": "f5dbe7371f6bae585e432ef4dba39bec"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "rismoney-chocolatey",
+  "version": "0.4.1",
+  "author": "rismoney",
+  "summary": "Chocolatey package provider for puppet",
+  "license": "APACHE2",
+  "source": "https://github.com/rismoney/puppet-chocolatey",
+  "project_page": "https://github.com/rismoney/puppet-chocolatey",
+  "issues_url": "https://github.com/rismoney/puppet-chocolatey/issues",
+  "description": "Chocolatey package provider for puppet",
+  "dependencies": [
+  
+  ]
+}
