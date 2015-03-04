@@ -3,7 +3,9 @@ class profile::dev-utilities {
   $chocolateyPackageList = [
 	 	#Utilities
 	 	'Gow',
-		'linqpad'		
+		'linqpad',
+    'nuget.commandline',
+    'nugetpackageexplorer'
   ]
 
   package { $chocolateyPackageList:

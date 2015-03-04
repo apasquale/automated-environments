@@ -1,7 +1,6 @@
 class profile::vs-extensions {
   $chocolateyPackageList = [
     #VS Extensions
-    'nuget.commandline',
     'MarkdownMode',
     'NugetPackageManagerForVisualStudio2013',
     'visualstudio2013-webessentials.vsix'    
